@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05验证名字中字母是否被长按", "05验证名字中字母是否被长按\05验证名字中字母是否被长按.vcxproj", "{512B50C0-DFE6-47F8-8072-65F4B457285A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512B50C0-DFE6-47F8-8072-65F4B457285A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{512B50C0-DFE6-47F8-8072-65F4B457285A}.Debug|Win32.Build.0 = Debug|Win32
+		{512B50C0-DFE6-47F8-8072-65F4B457285A}.Release|Win32.ActiveCfg = Release|Win32
+		{512B50C0-DFE6-47F8-8072-65F4B457285A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
